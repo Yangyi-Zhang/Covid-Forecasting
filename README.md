@@ -1,8 +1,9 @@
-# COVID-19 Case Forecasting
-COVID-19 Case Forecasting in CA counties with Auto-Regressive (AR), Long Short Term Memory (LSTM), and the hybrid of AR and LSTM.
+# An interpretable hybrid predictive model of COVID‐19 cases using autoregressive model and LSTM
 
-This is the code for our study: A Hybrid  Predictive Model of COVID-19 Cases using Autoregressive Model and LSTM
+This is the code for our study: An interpretable hybrid predictive model of COVID‐19 cases using autoregressive model and LSTM. ArXiv: 2211.17014.
+In this study, we proposed an interpretable hybrid neural network and tested its performance on COVID-19 prediction tasks, compared with AutoRegression, LSTM (single layer, double layer), SVM, Random Forest, XGBoost, on data collected from 8 countries, over 790 days.
 
+Files:
 Data_preprocessing: extract counties of interest and treat missing data.
 - LSTM_single: code for single layer LSTM, examined on 8 counties, latest trials(88 days) and all trials between 2020-02-01 to 2022-09-05.
 - LSTM_double: code for double layer LSTM, examined on 8 counties, latest trials(88 days) and all trials between 2020-02-01 to 2022-09-05.
