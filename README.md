@@ -1,6 +1,6 @@
 # An interpretable hybrid predictive model of COVID‐19 cases using autoregressive model and LSTM
 
-This is the code for our study: An interpretable hybrid predictive model of COVID‐19 cases using autoregressive model and LSTM. ArXiv: 2211.17014.
+This is the code for our study: An interpretable hybrid predictive model of COVID‐19 cases using autoregressive model and LSTM. ArXiv: $\href{https://arxiv.org/abs/2211.17014}{2211.17014}$.
 In this study, we proposed an interpretable hybrid neural network and tested its performance on COVID-19 prediction tasks, compared with AutoRegression, LSTM (single layer, double layer), SVM, Random Forest, XGBoost, on data collected from 8 countries, over 790 days.
 
 Files:
